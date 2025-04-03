@@ -6,7 +6,7 @@ import FunctionalComponent from './FunctionalComponent';
 
 import './App.css'
 
-export const ThemeContext = React.createContext()
+export const ThemeContext = React.createContext();
 
 function App() {
 
